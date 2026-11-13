@@ -1,0 +1,13 @@
+PAC Extensionista – N3 – Relatório Final
+Equipe: Marcos Vinicius da Silva Zacchi e Yan Carlos Farias
+Professor orientador: Prof. Me. Rogério Elias da Cunha
+
+Link do documento editável (Word Online – histórico de versões):
+Relatório_PACEXT_V - N3 - Marcos Vinicius e Yan Farias.docx
+https://catolicasc-my.sharepoint.com/:w:/g/personal/marcos_zacchi_catolicasc_edu_br/IQApUXWpJMrjQrZro_1RyO9eARpx6tZ1vJXY4P-ZMnsPOVk?e=bmDIXP
+
+Protótipo no Figma:
+https://www.figma.com/design/ViT9wvf3f2AtY3xaMPmZMU
+
+Repositório:
+https://github.com/MarcosViniciusDaSilvaZacchi/PAC_V
